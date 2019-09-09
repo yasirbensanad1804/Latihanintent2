@@ -4,3 +4,4 @@ saat saya membuat project ini saya belajar cara
 membuat class
 memindahkan satu activity ke activity lainnya
 memahami arti class (seperti cetakan agar)
+! [alt text] (https://i.imgur.com/C00Wc3R.png)
